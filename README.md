@@ -13,4 +13,5 @@ To use as a API, see this code:
       </div>
     </form>
   </body>
+</html>
 ```
