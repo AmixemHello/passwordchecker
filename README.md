@@ -2,7 +2,7 @@
 You can use the checker [here]().
 
 To use as a API, see this code:
-```
+```html
 <!DOCTYPE html>
 <html>
   <head><title>*YOUR TITLE*</title></head>
